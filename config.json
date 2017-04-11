@@ -1,0 +1,11 @@
+{
+  "admin": "Ghost",
+  "password": "loop",
+  "mods": [
+  	"add-mod-tripcodes-here"
+  ],
+  "host": "172.16.30.118",
+  "port": "10911",
+  "x_forwarded_for": true,
+  "salt": "gloribel"
+}
