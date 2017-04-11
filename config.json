@@ -4,8 +4,8 @@
   "mods": [
   	"add-mod-tripcodes-here"
   ],
-  "host": "172.16.30.118",
-  "port": "10911",
-  "x_forwarded_for": true,
+  "host": "0.0.0.0",
+  "port": "6060",
+  "x_forwarded_for": false,
   "salt": "gloribel"
 }
